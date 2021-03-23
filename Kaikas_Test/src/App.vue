@@ -58,7 +58,7 @@ export default {
           () => console.log("굳")
         )
       }
-    }
+    },
   }
 }
 </script>
